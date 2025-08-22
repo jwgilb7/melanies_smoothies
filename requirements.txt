@@ -1,0 +1,7 @@
+SMOOTHIES.PUBLIC.MY_UPLOADED_FILESname: app_environment
+channels:
+  - snowflake
+dependencies:
+  - python=3.11.*
+  - snowflake-snowpark-python=
+  - streamlit=
